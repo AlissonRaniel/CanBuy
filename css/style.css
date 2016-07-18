@@ -1,0 +1,11 @@
+body{
+    color:#333;
+    font-size:15pt;
+	font-family:'Arial';
+    text-align:center;
+}
+
+#response
+{
+	width: 128px;
+}
